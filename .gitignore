@@ -1,0 +1,14 @@
+# Python-specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# OpenCV build files (if using CMake)
+build/
+
+# PyCharm-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
